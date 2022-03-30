@@ -27,15 +27,20 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 **Arxiv**
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
+- Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
 - Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
 - One Student Knows All Experts Know: From Sparse to Dense [[26 Jan 2022]](https://arxiv.org/abs/2201.10890)
-- Efficient Large Scale Language Modeling with Mixtures of Experts [[20 Dec 2021]](https://arxiv.org/abs/2101.03961)
+- Dense-to-Sparse Gate for Mixture-of-Experts [[29 Dec 2021]](https://arxiv.org/abs/2112.14397)
+- Efficient Large Scale Language Modeling with Mixtures of Experts [[20 Dec 2021]](https://arxiv.org/abs/2112.10684)
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts [[13 Dec 2021]](https://arxiv.org/abs/2112.06905)
+- Sparse MoEs meet Efficient Ensembles [[7 Oct 2021]](https://arxiv.org/abs/2110.03360)
 - MoEfication: Conditional Computation of Transformer Models for Efficient Inference [[5 Oct 2021]](https://arxiv.org/abs/2110.01786)
 - Cross-token Modeling with Conditional Computation [[5 Sep 2021]](https://arxiv.org/abs/2109.02008)
 - M6-T: Exploring Sparse Expert Models and Beyond [[31 May 2021]](https://arxiv.org/abs/2105.15082)
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[11 Jan 2021]](https://arxiv.org/abs/2101.03961)
-- Exploring Routing Strategies for Multilingual Mixture-of-Experts Models [[28 Sept 2020]](https://arxiv.org/abs/2101.03961)
+- Exploring Routing Strategies for Multilingual Mixture-of-Experts Models [[28 Sept 2020]](https://openreview.net/forum?id=ey1XXNzcIZS)
+
+
 
 
 ## MoE System
