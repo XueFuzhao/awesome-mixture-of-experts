@@ -16,14 +16,17 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 # Papers
 ## MoE Model
-**Conference**
+**Publication**
 - Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
+- Hash layers for large sparse models [[NeurIPS2021]](https://arxiv.org/abs/2106.04426)
 - Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
 - BASE Layers: Simplifying Training of Large, Sparse Models [[ICML2021]](https://arxiv.org/abs/2103.16716)
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[ICLR2017]](https://openreview.net/forum?id=B1ckMDqlg)
+- CPM-2: Large-scale cost-effective pre-trained language models [[AI Open]](https://www.sciencedirect.com/science/article/pii/S2666651021000310)
 
 **Arxiv**
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
+- Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
 - One Student Knows All Experts Know: From Sparse to Dense [[26 Jan 2022]](https://arxiv.org/abs/2201.10890)
 - Efficient Large Scale Language Modeling with Mixtures of Experts [[20 Dec 2021]](https://arxiv.org/abs/2101.03961)
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts [[13 Dec 2021]](https://arxiv.org/abs/2112.06905)
@@ -34,7 +37,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 ## MoE System
-**Conference**
+**Publication**
 - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding [[ICLR2021]](https://openreview.net/forum?id=qrwe7XHTmYb)
 
 **Arxiv**
