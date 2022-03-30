@@ -1,4 +1,4 @@
-# awesome-mixture-of-experts[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-mixture-of-experts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
@@ -30,6 +30,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
 - Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
 - Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
+- Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [[28 Jan 2022]](https://arxiv.org/abs/2201.11990)
 - One Student Knows All Experts Know: From Sparse to Dense [[26 Jan 2022]](https://arxiv.org/abs/2201.10890)
 - Dense-to-Sparse Gate for Mixture-of-Experts [[29 Dec 2021]](https://arxiv.org/abs/2112.14397)
 - Efficient Large Scale Language Modeling with Mixtures of Experts [[20 Dec 2021]](https://arxiv.org/abs/2112.10684)
@@ -50,9 +51,11 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 ## MoE System
 **Publication**
+- BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores [[PPoPP2022]](http://keg.cs.tsinghua.edu.cn/jietang/publications/PPOPP22-Ma%20et%20al.-BaGuaLu%20Targeting%20Brain%20Scale%20Pretrained%20Models%20w.pdf)
 - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding [[ICLR2021]](https://openreview.net/forum?id=qrwe7XHTmYb)
 
 **Arxiv**
+SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient
 - DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale [[14 Jan 2022]](https://arxiv.org/abs/2201.05596)
 - FastMoE: A Fast Mixture-of-Expert Training System [[24 Mar 2021]](https://arxiv.org/abs/2103.13262)
 
