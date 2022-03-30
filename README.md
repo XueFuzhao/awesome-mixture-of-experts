@@ -24,6 +24,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - BASE Layers: Simplifying Training of Large, Sparse Models [[ICML2021]](https://arxiv.org/abs/2103.16716)
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[ICLR2017]](https://openreview.net/forum?id=B1ckMDqlg)
 - CPM-2: Large-scale cost-effective pre-trained language models [[AI Open]](https://www.sciencedirect.com/science/article/pii/S2666651021000310)
+- Mixture of experts: a literature survey [[Artificial Intelligence Review]](https://link.springer.com/article/10.1007/s10462-012-9338-y)
 
 
 **Arxiv**
