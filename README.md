@@ -38,6 +38,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - SpeechMoE2: Mixture-of-Experts Model with Improved Routing [[23 Nov 2021]](https://arxiv.org/abs/2111.11831)
 - VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts [[23 Nov 2021]](https://arxiv.org/abs/2111.02358)
 - Towards More Effective and Economic Sparsely-Activated Model [[14 Oct 2021]](https://arxiv.org/abs/2110.07431)
+- M6-10T: A Sharing-Delinking Paradigm for Efficient Multi-Trillion Parameter Pretraining [[8 Oct 2021]](https://arxiv.org/abs/2110.03888)
 - Sparse MoEs meet Efficient Ensembles [[7 Oct 2021]](https://arxiv.org/abs/2110.03360)
 - MoEfication: Conditional Computation of Transformer Models for Efficient Inference [[5 Oct 2021]](https://arxiv.org/abs/2110.01786)
 - Cross-token Modeling with Conditional Computation [[5 Sep 2021]](https://arxiv.org/abs/2109.02008)
