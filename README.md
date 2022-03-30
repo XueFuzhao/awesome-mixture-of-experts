@@ -19,7 +19,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 **Publication**
 - Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
 - Hash layers for large sparse models [[NeurIPS2021]](https://arxiv.org/abs/2106.04426)
-- DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning [[NeurIPS2021]](https://arxiv.org/abs/2111.02358)
+- DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning [[NeurIPS2021]](https://arxiv.org/abs/2106.03760)
 - Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
 - BASE Layers: Simplifying Training of Large, Sparse Models [[ICML2021]](https://arxiv.org/abs/2103.16716)
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[ICLR2017]](https://openreview.net/forum?id=B1ckMDqlg)
@@ -37,6 +37,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - Building a great multi-lingual teacher with sparsely-gated mixture of experts for speech recognition [[10 Dec 2021]](https://arxiv.org/abs/2112.05820)
 - SpeechMoE2: Mixture-of-Experts Model with Improved Routing [[23 Nov 2021]](https://arxiv.org/abs/2111.11831)
 - VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts [[23 Nov 2021]](https://arxiv.org/abs/2111.02358)
+- Towards More Effective and Economic Sparsely-Activated Model [[14 Oct 2021]](https://arxiv.org/abs/2110.07431)
 - Sparse MoEs meet Efficient Ensembles [[7 Oct 2021]](https://arxiv.org/abs/2110.03360)
 - MoEfication: Conditional Computation of Transformer Models for Efficient Inference [[5 Oct 2021]](https://arxiv.org/abs/2110.01786)
 - Cross-token Modeling with Conditional Computation [[5 Sep 2021]](https://arxiv.org/abs/2109.02008)
