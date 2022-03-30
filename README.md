@@ -24,6 +24,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[ICLR2017]](https://openreview.net/forum?id=B1ckMDqlg)
 - CPM-2: Large-scale cost-effective pre-trained language models [[AI Open]](https://www.sciencedirect.com/science/article/pii/S2666651021000310)
 
+
 **Arxiv**
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
 - Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
@@ -32,6 +33,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts [[13 Dec 2021]](https://arxiv.org/abs/2112.06905)
 - MoEfication: Conditional Computation of Transformer Models for Efficient Inference [[5 Oct 2021]](https://arxiv.org/abs/2110.01786)
 - Cross-token Modeling with Conditional Computation [[5 Sep 2021]](https://arxiv.org/abs/2109.02008)
+- M6-T: Exploring Sparse Expert Models and Beyond [[31 May 2021]](https://arxiv.org/abs/2105.15082)
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[11 Jan 2021]](https://arxiv.org/abs/2101.03961)
 - Exploring Routing Strategies for Multilingual Mixture-of-Experts Models [[28 Sept 2020]](https://arxiv.org/abs/2101.03961)
 
