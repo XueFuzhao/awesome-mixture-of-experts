@@ -18,6 +18,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 ## MoE Model
 **Publication**
 - Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
+- Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260)
 - Hash layers for large sparse models [[NeurIPS2021]](https://arxiv.org/abs/2106.04426)
 - DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning [[NeurIPS2021]](https://arxiv.org/abs/2106.03760)
 - Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
@@ -29,8 +30,10 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 **Arxiv**
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
+- Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models [[2 Mar 2022]](https://arxiv.org/abs/2203.01104)
 - Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
 - Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
+- Unified Scaling Laws for Routed Language Models [[2 Feb 2022]](https://arxiv.org/abs/2202.01169)
 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [[28 Jan 2022]](https://arxiv.org/abs/2201.11990)
 - One Student Knows All Experts Know: From Sparse to Dense [[26 Jan 2022]](https://arxiv.org/abs/2201.10890)
 - Dense-to-Sparse Gate for Mixture-of-Experts [[29 Dec 2021]](https://arxiv.org/abs/2112.14397)
