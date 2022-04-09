@@ -58,13 +58,15 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 **Publication**
 - Pathways: Asynchronous Distributed Dataflow for ML [[MLSys2022]](https://arxiv.org/abs/2203.12533)
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning [[OSDI2022]](https://arxiv.org/abs/2201.12023)
+- FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models[[PPoPP2022]](https://dl.acm.org/doi/abs/10.1145/3503221.3508418)
 - BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores [[PPoPP2022]](http://keg.cs.tsinghua.edu.cn/jietang/publications/PPOPP22-Ma%20et%20al.-BaGuaLu%20Targeting%20Brain%20Scale%20Pretrained%20Models%20w.pdf)
 - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding [[ICLR2021]](https://openreview.net/forum?id=qrwe7XHTmYb)
 
 
 **Arxiv**
-- SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient
+- HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System [[28 Mar 2022]](https://arxiv.org/abs/2203.14685)
 - DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale [[14 Jan 2022]](https://arxiv.org/abs/2201.05596)
+- SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient [[29 Sep 2021]](https://openreview.net/forum?id=U1edbV4kNu_)
 - FastMoE: A Fast Mixture-of-Expert Training System [[24 Mar 2021]](https://arxiv.org/abs/2103.13262)
 
 
