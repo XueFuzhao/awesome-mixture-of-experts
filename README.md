@@ -17,8 +17,8 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 # Papers
 ## MoE Model
 **Publication**
-- Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
 - Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260)
+- Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
 - Hash layers for large sparse models [[NeurIPS2021]](https://arxiv.org/abs/2106.04426)
 - DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning [[NeurIPS2021]](https://arxiv.org/abs/2106.03760)
 - Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
