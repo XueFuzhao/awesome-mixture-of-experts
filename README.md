@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Mixture-of-experts VAEs can disregard variation in surjective multimodal data [[11 Apr 2022]](https://arxiv.org/abs/2204.05229)
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
 - Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models [[2 Mar 2022]](https://arxiv.org/abs/2203.01104)
 - Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
