@@ -70,6 +70,10 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient [[29 Sep 2021]](https://openreview.net/forum?id=U1edbV4kNu_)
 - FastMoE: A Fast Mixture-of-Expert Training System [[24 Mar 2021]](https://arxiv.org/abs/2103.13262)
 
+## MoE Application
+
+**Arxiv**
+- Mixture of Experts for Biomedical Question Answering [[15 Apr 2022]](https://arxiv.org/abs/2204.07469)
 
 # Library
 - [Tutel: An efficient mixture-of-experts implementation for large DNN model training](https://github.com/microsoft/tutel)
