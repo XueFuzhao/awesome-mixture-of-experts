@@ -29,6 +29,9 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- StableMoE: Stable Routing Strategy for Mixture of Experts [[18 Apr 2022]](https://arxiv.org/abs/2204.08396)
+- Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners [[16 Apr 2022]](https://arxiv.org/abs/2204.07689)
+- MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation [[15 Apr 2022]](https://arxiv.org/abs/2204.07675)
 - Mixture-of-experts VAEs can disregard variation in surjective multimodal data [[11 Apr 2022]](https://arxiv.org/abs/2204.05229)
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
 - Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models [[2 Mar 2022]](https://arxiv.org/abs/2203.01104)
