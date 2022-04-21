@@ -29,6 +29,8 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Residual Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09636)
+- On the Representation Collapse of Sparse Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09179)
 - StableMoE: Stable Routing Strategy for Mixture of Experts [[18 Apr 2022]](https://arxiv.org/abs/2204.08396)
 - Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners [[16 Apr 2022]](https://arxiv.org/abs/2204.07689)
 - MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation [[15 Apr 2022]](https://arxiv.org/abs/2204.07675)
@@ -76,6 +78,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 ## MoE Application
 
 **Arxiv**
+- Build a Robust QA System with Transformer-based Mixture of Experts [[20 Mar 2022]](https://arxiv.org/abs/2204.09598)
 - Mixture of Experts for Biomedical Question Answering [[15 Apr 2022]](https://arxiv.org/abs/2204.07469)
 
 # Library
