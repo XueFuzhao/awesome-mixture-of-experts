@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- SkillNet-NLG: General-Purpose Natural Language Generation with a Sparsely Activated Approach [[26 Apr 2022]](https://arxiv.org/abs/2204.12184)
 - Residual Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09636)
 - On the Representation Collapse of Sparse Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09179)
 - StableMoE: Stable Routing Strategy for Mixture of Experts [[18 Apr 2022]](https://arxiv.org/abs/2204.08396)
