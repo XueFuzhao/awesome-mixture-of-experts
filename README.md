@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code [[12 May 2022]](https://arxiv.org/abs/2205.06126)
 - SkillNet-NLG: General-Purpose Natural Language Generation with a Sparsely Activated Approach [[26 Apr 2022]](https://arxiv.org/abs/2204.12184)
 - Residual Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09636)
 - On the Representation Collapse of Sparse Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09179)
