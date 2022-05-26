@@ -29,6 +29,8 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models [[24 May 2022]](https://arxiv.org/abs/2205.12399)
+- Sparse Mixers: Combining MoE and Mixing to build a more efficient BERT [[24 May 2022]](https://arxiv.org/abs/2205.12399)
 - One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code [[12 May 2022]](https://arxiv.org/abs/2205.06126)
 - SkillNet-NLG: General-Purpose Natural Language Generation with a Sparsely Activated Approach [[26 Apr 2022]](https://arxiv.org/abs/2204.12184)
 - Residual Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09636)
