@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers [[28 May 2022]](https://arxiv.org/abs/2205.14336)
 - AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models [[24 May 2022]](https://arxiv.org/abs/2205.12399)
 - Sparse Mixers: Combining MoE and Mixing to build a more efficient BERT [[24 May 2022]](https://arxiv.org/abs/2205.12399)
 - One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code [[12 May 2022]](https://arxiv.org/abs/2205.06126)
