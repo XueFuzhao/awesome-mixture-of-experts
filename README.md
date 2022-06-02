@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Task-Specific Expert Pruning for Sparse Mixture-of-Experts [[1 Jun 2022]](https://arxiv.org/abs/2206.00277)
 - Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers [[28 May 2022]](https://arxiv.org/abs/2205.14336)
 - AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models [[24 May 2022]](https://arxiv.org/abs/2205.12399)
 - Sparse Mixers: Combining MoE and Mixing to build a more efficient BERT [[24 May 2022]](https://arxiv.org/abs/2205.12399)
@@ -83,6 +84,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 ## MoE Application
 
 **Arxiv**
+- A Mixture-of-Expert Approach to RL-based Dialogue Management [[31 May 2022]](https://arxiv.org/abs/2206.00059))
 - Pluralistic Image Completion with Probabilistic Mixture-of-Experts [[18 May 2022]](https://arxiv.org/abs/2205.09086))
 - ST-ExpertNet: A Deep Expert Framework for Traffic Prediction [[5 May 2022]](https://arxiv.org/abs/2205.07851)
 - Build a Robust QA System with Transformer-based Mixture of Experts [[20 Mar 2022]](https://arxiv.org/abs/2204.09598)
