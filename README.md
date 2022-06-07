@@ -29,6 +29,8 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts [[6 Jun 2022]](https://arxiv.org/abs/2206.02770)
+- Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation [[5 Jun 2022]](https://arxiv.org/abs/2206.01741)
 - Interpretable Mixture of Experts for Structured Data [[5 Jun 2022]](https://arxiv.org/abs/2206.02107)
 - Task-Specific Expert Pruning for Sparse Mixture-of-Experts [[1 Jun 2022]](https://arxiv.org/abs/2206.00277)
 - Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers [[28 May 2022]](https://arxiv.org/abs/2205.14336)
