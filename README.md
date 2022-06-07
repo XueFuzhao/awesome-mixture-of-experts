@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- Interpretable Mixture of Experts for Structured Data [[5 Jun 2022]](https://arxiv.org/abs/2206.02107)
 - Task-Specific Expert Pruning for Sparse Mixture-of-Experts [[1 Jun 2022]](https://arxiv.org/abs/2206.00277)
 - Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers [[28 May 2022]](https://arxiv.org/abs/2205.14336)
 - AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models [[24 May 2022]](https://arxiv.org/abs/2205.12399)
