@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- No Language Left Behind: Scaling Human-Centered Machine Translation [[6 Jul 2022]](https://research.facebook.com/publications/no-language-left-behind/)
 - Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners [[8 Jun 2022]](https://arxiv.org/abs/2206.04046)
 - Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts [[6 Jun 2022]](https://arxiv.org/abs/2206.02770)
 - Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation [[5 Jun 2022]](https://arxiv.org/abs/2206.01741)
