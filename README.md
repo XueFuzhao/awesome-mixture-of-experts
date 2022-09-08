@@ -15,6 +15,9 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - [Library](#library)
 
 # Papers
+## Great Survey
+- A Review of Sparse Expert Models in Deep Learning [[4 Sep 2022]](https://arxiv.org/abs/2209.01667)
+
 ## MoE Model
 **Publication**
 - Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260)
