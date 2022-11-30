@@ -31,7 +31,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - Mixture of experts: a literature survey [[Artificial Intelligence Review]](https://link.springer.com/article/10.1007/s10462-012-9338-y)
 
 
-**Arxiv**
+**arXiv**
 - MoEC: Mixture of Expert Clusters [[19 Jul 2022]](https://arxiv.org/abs/2207.09094)
 - No Language Left Behind: Scaling Human-Centered Machine Translation [[6 Jul 2022]](https://research.facebook.com/publications/no-language-left-behind/)
 - Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners [[8 Jun 2022]](https://arxiv.org/abs/2206.04046)
@@ -84,7 +84,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding [[ICLR2021]](https://openreview.net/forum?id=qrwe7XHTmYb)
 
 
-**Arxiv**
+**arXiv**
 - MegaBlocks: Efficient Sparse Training with Mixture-of-Experts [[29 Nov 2022]](https://arxiv.org/abs/2211.15841)
 - HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System [[28 Mar 2022]](https://arxiv.org/abs/2203.14685)
 - SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System [[20 Mar 2022]](https://arxiv.org/abs/2205.10034)
@@ -94,7 +94,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 ## MoE Application
 
-**Arxiv**
+**arXiv**
 - Spatial Mixture-of-Experts [[24 Nov 2022]](https://arxiv.org/abs/2211.13491)
 - A Mixture-of-Expert Approach to RL-based Dialogue Management [[31 May 2022]](https://arxiv.org/abs/2206.00059)
 - Pluralistic Image Completion with Probabilistic Mixture-of-Experts [[18 May 2022]](https://arxiv.org/abs/2205.09086)
