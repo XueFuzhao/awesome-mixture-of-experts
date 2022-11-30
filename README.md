@@ -85,6 +85,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 
 **Arxiv**
+- MegaBlocks: Efficient Sparse Training with Mixture-of-Experts [[29 Nov 2022]](https://arxiv.org/abs/2211.15841)
 - HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System [[28 Mar 2022]](https://arxiv.org/abs/2203.14685)
 - SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System [[20 Mar 2022]](https://arxiv.org/abs/2205.10034)
 - DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale [[14 Jan 2022]](https://arxiv.org/abs/2201.05596)
