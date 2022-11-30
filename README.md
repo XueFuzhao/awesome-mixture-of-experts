@@ -95,9 +95,9 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 ## MoE Application
 
 **Arxiv**
-- Spatial Mixture-of-Experts[[24 Nov 2022]](https://arxiv.org/abs/2211.13491)
-- A Mixture-of-Expert Approach to RL-based Dialogue Management [[31 May 2022]](https://arxiv.org/abs/2206.00059))
-- Pluralistic Image Completion with Probabilistic Mixture-of-Experts [[18 May 2022]](https://arxiv.org/abs/2205.09086))
+- Spatial Mixture-of-Experts [[24 Nov 2022]](https://arxiv.org/abs/2211.13491)
+- A Mixture-of-Expert Approach to RL-based Dialogue Management [[31 May 2022]](https://arxiv.org/abs/2206.00059)
+- Pluralistic Image Completion with Probabilistic Mixture-of-Experts [[18 May 2022]](https://arxiv.org/abs/2205.09086)
 - ST-ExpertNet: A Deep Expert Framework for Traffic Prediction [[5 May 2022]](https://arxiv.org/abs/2205.07851)
 - Build a Robust QA System with Transformer-based Mixture of Experts [[20 Mar 2022]](https://arxiv.org/abs/2204.09598)
 - Mixture of Experts for Biomedical Question Answering [[15 Apr 2022]](https://arxiv.org/abs/2204.07469)
