@@ -20,6 +20,8 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 ## MoE Model
 **Publication**
+- On the Representation Collapse of Sparse Mixture of Experts [[NeurIPS 2022]](https://arxiv.org/abs/2204.09179)
+- StableMoE: Stable Routing Strategy for Mixture of Experts [[ACL 2022]](https://arxiv.org/abs/2204.08396)
 - Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260)
 - Go Wider Instead of Deeper [[AAAI2022]](https://arxiv.org/abs/2107.11817)
 - Hash layers for large sparse models [[NeurIPS2021]](https://arxiv.org/abs/2106.04426)
@@ -45,8 +47,6 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code [[12 May 2022]](https://arxiv.org/abs/2205.06126)
 - SkillNet-NLG: General-Purpose Natural Language Generation with a Sparsely Activated Approach [[26 Apr 2022]](https://arxiv.org/abs/2204.12184)
 - Residual Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09636)
-- On the Representation Collapse of Sparse Mixture of Experts [[20 Apr 2022]](https://arxiv.org/abs/2204.09179)
-- StableMoE: Stable Routing Strategy for Mixture of Experts [[18 Apr 2022]](https://arxiv.org/abs/2204.08396)
 - Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners [[16 Apr 2022]](https://arxiv.org/abs/2204.07689)
 - MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation [[15 Apr 2022]](https://arxiv.org/abs/2204.07675)
 - Mixture-of-experts VAEs can disregard variation in surjective multimodal data [[11 Apr 2022]](https://arxiv.org/abs/2204.05229)
