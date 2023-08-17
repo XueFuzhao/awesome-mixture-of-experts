@@ -15,11 +15,20 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - [Library](#library)
 
 # Papers
-## Great Survey
+## Must Read
+I list my favorite MoE papers here. I think these papers can greatly help new MoErs to know about this topic.
 - A Review of Sparse Expert Models in Deep Learning [[4 Sep 2022]](https://arxiv.org/abs/2209.01667)
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[11 Jan 2021]](https://arxiv.org/abs/2101.03961)
+- GLaM: Efficient Scaling of Language Models with Mixture-of-Experts [[13 Dec 2021]](https://arxiv.org/abs/2112.06905)
+- Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
+- ST-MoE: Designing Stable and Transferable Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
+- Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
+- Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
+- From Sparse to Soft Mixtures of Experts [[2 Aug 2023]](https://arxiv.org/abs/2308.00951)
 
 ## MoE Model
 **Publication**
+- Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - On the Representation Collapse of Sparse Mixture of Experts [[NeurIPS 2022]](https://arxiv.org/abs/2204.09179)
 - StableMoE: Stable Routing Strategy for Mixture of Experts [[ACL 2022]](https://arxiv.org/abs/2204.08396)
 - Taming Sparsely Activated Transformer with Stochastic Experts [[ICLR 2022]](https://arxiv.org/abs/2110.04260)
@@ -53,6 +62,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - Efficient Language Modeling with Sparse all-MLP [[14 Mar 2022]](https://arxiv.org/abs/2203.06850)
 - Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models [[2 Mar 2022]](https://arxiv.org/abs/2203.01104)
 - Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
+- ST-MoE: Designing Stable and Transferable Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
 - Designing Effective Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
 - Unified Scaling Laws for Routed Language Models [[2 Feb 2022]](https://arxiv.org/abs/2202.01169)
 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [[28 Jan 2022]](https://arxiv.org/abs/2201.11990)
