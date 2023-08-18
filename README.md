@@ -104,6 +104,10 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 
 ## MoE Application
 
+**Publication**
+- Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields [[02 Feb 2023]](https://openreview.net/forum?id=PQ2zoIZqvm)
+
+
 **arXiv**
 - Spatial Mixture-of-Experts [[24 Nov 2022]](https://arxiv.org/abs/2211.13491)
 - A Mixture-of-Expert Approach to RL-based Dialogue Management [[31 May 2022]](https://arxiv.org/abs/2206.00059)
