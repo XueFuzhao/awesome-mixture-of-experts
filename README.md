@@ -9,10 +9,17 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 # Contents
 - [awesome-mixture-of-experts](#awesome-mixture-of-experts)
 - [Contents](#contents)
+- [Open Models](#open-models)
 - [Papers](#papers)
   - [MoE Model](#moe-model)
   - [MoE System](#moe-system)
 - [Library](#library)
+
+# Open Models
+
+- OpenMoE: Open Mixture-of-Experts Language Models [Link](https://github.com/XueFuzhao/OpenMoE)
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [Link](https://github.com/google-research/t5x/blob/main/docs/models.md)
+
 
 # Papers
 ## Must Read
