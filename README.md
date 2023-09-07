@@ -29,12 +29,14 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts [[13 Dec 2021]](https://arxiv.org/abs/2112.06905)
 - Scaling Vision with Sparse Mixture of Experts [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
 - ST-MoE: Designing Stable and Transferable Sparse Expert Models [[17 Feb 2022]](https://arxiv.org/abs/2202.08906)
-- Mixture-of-Experts with Expert Choice Routing [[18 Feb 2022]](https://arxiv.org/abs/2101.03961)
+- Mixture-of-Experts with Expert Choice Routing [[NeurIPS 2022]](https://arxiv.org/abs/2202.09368)
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - From Sparse to Soft Mixtures of Experts [[2 Aug 2023]](https://arxiv.org/abs/2308.00951)
 
 ## MoE Model
 **Publication**
+- Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks [[ICML 2023]](https://arxiv.org/abs/2306.04073)
+- Robust Mixture-of-Expert Training for Convolutional Neural Networks [[ICCV 2023]](https://arxiv.org/abs/2308.10110v1)
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - On the Representation Collapse of Sparse Mixture of Experts [[NeurIPS 2022]](https://arxiv.org/abs/2204.09179)
 - StableMoE: Stable Routing Strategy for Mixture of Experts [[ACL 2022]](https://arxiv.org/abs/2204.08396)
