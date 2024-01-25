@@ -16,9 +16,12 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - [Library](#library)
 
 # Open Models
-
-- OpenMoE: Open Mixture-of-Experts Language Models [Link](https://github.com/XueFuzhao/OpenMoE)
-- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [Link](https://github.com/google-research/t5x/blob/main/docs/models.md)
+- DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [[Jan 2024]](https://github.com/deepseek-ai/DeepSeek-MoE) [Paper](https://arxiv.org/abs/2401.06066)
+- LLaMA-MoE [[Dec 2023]](https://github.com/pjlab-sys4nlp/llama-moe)
+- Mixtral of Experts [[Dec 2023]](https://mistral.ai/news/mixtral-of-experts/) [Paper](https://arxiv.org/abs/2401.04088)
+- OpenMoE: Open Mixture-of-Experts Language Models [[Aug 2023]](https://github.com/XueFuzhao/OpenMoE)
+- Efficient Large Scale Language Modeling with Mixtures of Experts [[Dec 2021]](https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm) [Paper](https://arxiv.org/abs/2112.10684)
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[Feb 2021]](https://github.com/google-research/t5x/blob/main/docs/models.md) [Paper](https://arxiv.org/abs/2101.03961)
 
 
 # Papers
