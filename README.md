@@ -35,7 +35,7 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - Mixture-of-Experts with Expert Choice Routing [[NeurIPS 2022]](https://arxiv.org/abs/2202.09368)
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - From Sparse to Soft Mixtures of Experts [[2 Aug 2023]](https://arxiv.org/abs/2308.00951)
-- OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023] [Paper](https://arxiv.org/abs/2402.01739)
+- OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023](https://arxiv.org/abs/2402.01739)
 
 
 ## MoE Model
