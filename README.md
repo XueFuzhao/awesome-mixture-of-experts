@@ -19,7 +19,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [Jan 2024] [Repo](https://github.com/deepseek-ai/DeepSeek-MoE) [Paper](https://arxiv.org/abs/2401.06066)
 - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training [Dec 2023] [Repo](https://github.com/pjlab-sys4nlp/llama-moe)
 - Mixtral of Experts [Dec 2023] [Repo](https://mistral.ai/news/mixtral-of-experts/) [Paper](https://arxiv.org/abs/2401.04088)
-- OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023] [Repo](https://github.com/XueFuzhao/OpenMoE)
+- OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023] [Repo](https://github.com/XueFuzhao/OpenMoE) [Paper](https://arxiv.org/abs/2402.01739)
 - Efficient Large Scale Language Modeling with Mixtures of Experts [Dec 2021] [Repo](https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm) [Paper](https://arxiv.org/abs/2112.10684)
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [Feb 2021] [Repo](https://github.com/google-research/t5x/blob/main/docs/models.md) [Paper](https://arxiv.org/abs/2101.03961)
 
@@ -35,6 +35,8 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - Mixture-of-Experts with Expert Choice Routing [[NeurIPS 2022]](https://arxiv.org/abs/2202.09368)
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - From Sparse to Soft Mixtures of Experts [[2 Aug 2023]](https://arxiv.org/abs/2308.00951)
+- OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023] [Paper](https://arxiv.org/abs/2402.01739)
+
 
 ## MoE Model
 **Publication**
