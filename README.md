@@ -42,6 +42,8 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 **Publication**
 - Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks [[ICML 2023]](https://arxiv.org/abs/2306.04073)
 - Robust Mixture-of-Expert Training for Convolutional Neural Networks [[ICCV 2023]](https://arxiv.org/abs/2308.10110v1)
+- Merging Experts into One: Improving Computational Efficiency of Mixture of Experts [[EMNLP 2023](https://arxiv.org/abs/2310.09832)]
+- PAD-Net: An Efficient Framework for Dynamic Networks [[ACL 2023](https://arxiv.org/abs/2211.05528)]
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - On the Representation Collapse of Sparse Mixture of Experts [[NeurIPS 2022]](https://arxiv.org/abs/2204.09179)
 - StableMoE: Stable Routing Strategy for Mixture of Experts [[ACL 2022]](https://arxiv.org/abs/2204.08396)
