@@ -7,12 +7,14 @@ A collection of AWESOME things about mixture-of-experts
 This repo is a collection of AWESOME things about mixture-of-experts, including papers, code, etc. Feel free to star and fork.
 
 # Contents
-- [awesome-mixture-of-experts](#awesome-mixture-of-experts)
+- [awesome-mixture-of-experts ](#awesome-mixture-of-experts-)
 - [Contents](#contents)
 - [Open Models](#open-models)
 - [Papers](#papers)
+  - [Must Read](#must-read)
   - [MoE Model](#moe-model)
   - [MoE System](#moe-system)
+  - [MoE Application](#moe-application)
 - [Library](#library)
 
 # Open Models
@@ -59,7 +61,8 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 
 
 **arXiv**
-- - Demystifying the Compression of Mixture-of-Experts Through a Unified Framework [4 Jun 2024] [Repo](https://github.com/DaizeDong/Unified-MoE-Compression) [Paper](https://arxiv.org/abs/2406.02500)
+- Demystifying the Compression of Mixture-of-Experts Through a Unified Framework [4 Jun 2024] [Repo](https://github.com/DaizeDong/Unified-MoE-Compression) [Paper](https://arxiv.org/abs/2406.02500)
+- Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models [23 May 2024] [Repo](https://github.com/LINs-lab/DynMoE) [Paper](https://arxiv.org/abs/2405.14297)
 - MoEC: Mixture of Expert Clusters [[19 Jul 2022]](https://arxiv.org/abs/2207.09094)
 - No Language Left Behind: Scaling Human-Centered Machine Translation [[6 Jul 2022]](https://research.facebook.com/publications/no-language-left-behind/)
 - Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners [[8 Jun 2022]](https://arxiv.org/abs/2206.04046)
