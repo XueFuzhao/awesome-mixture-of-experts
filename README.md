@@ -18,6 +18,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 - [Library](#library)
 
 # Open Models
+- OLMoE: Open Mixture-of-Experts Language Models [Sep 2024] [Paper](https://arxiv.org/abs/2409.02060)
 - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [Jan 2024] [Repo](https://github.com/deepseek-ai/DeepSeek-MoE) [Paper](https://arxiv.org/abs/2401.06066)
 - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training [Dec 2023] [Repo](https://github.com/pjlab-sys4nlp/llama-moe)
 - Mixtral of Experts [Dec 2023] [Repo](https://mistral.ai/news/mixtral-of-experts/) [Paper](https://arxiv.org/abs/2401.04088)
@@ -38,6 +39,9 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - Brainformers: Trading Simplicity for Efficiency [[ICML 2023]](https://arxiv.org/abs/2306.00008)
 - From Sparse to Soft Mixtures of Experts [[2 Aug 2023]](https://arxiv.org/abs/2308.00951)
 - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [Aug 2023](https://arxiv.org/abs/2402.01739)
+- MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts [Jul 2024] [Paper](https://arxiv.org/abs/2407.21770)
+- OLMoE: Open Mixture-of-Experts Language Models [Sep 2024] [Paper](https://arxiv.org/abs/2409.02060)
+
 
 
 ## MoE Model
