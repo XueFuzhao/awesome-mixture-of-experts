@@ -145,3 +145,4 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - [Mesh-TensorFlow: Deep Learning for Supercomputers](https://github.com/tensorflow/mesh)
 - [FastMoE: A Fast Mixture-of-Expert Training System](https://github.com/laekov/fastmoe)
 - [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://github.com/microsoft/DeepSpeed)
+- [Megatron-Core MoE](https://github.com/NVIDIA/Megatron-LM/tree/main/megatron/core/transformer/moe)
