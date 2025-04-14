@@ -1,4 +1,12 @@
-# awesome-mixture-of-experts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+    <h1>Awesome Mixture-of-Experts</h1>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge.svg"/>
+    </a>
+    <a href="https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/fork">
+        <img src="https://img.shields.io/badge/PRs-Welcome-red" height="20"/>
+    </a>
+</div>
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
