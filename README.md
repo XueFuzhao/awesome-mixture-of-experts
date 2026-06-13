@@ -19,6 +19,7 @@ This repo is a collection of AWESOME things about mixture-of-experts, including 
 
 # Open Models
 - OLMoE: Open Mixture-of-Experts Language Models [Sep 2024] [Paper](https://arxiv.org/abs/2409.02060)
+- Genesis 2: Cascade MoE [Jun 2026] [Repo](https://github.com/larionovavi-stack/genesis2-cascade-moe) - Novel MoE architecture with shared neuron pool instead of separate expert parameters, cascade activation via reverse index (no router network), one-step learning with zero catastrophic forgetting, CPU-only inference (18ms). 10,800+ experts, patent filed FIPS Russia 2026.
 - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [Jan 2024] [Repo](https://github.com/deepseek-ai/DeepSeek-MoE) [Paper](https://arxiv.org/abs/2401.06066)
 - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training [Dec 2023] [Repo](https://github.com/pjlab-sys4nlp/llama-moe)
 - Mixtral of Experts [Dec 2023] [Repo](https://mistral.ai/news/mixtral-of-experts/) [Paper](https://arxiv.org/abs/2401.04088)
