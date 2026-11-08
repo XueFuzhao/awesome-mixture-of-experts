@@ -65,6 +65,7 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 
 
 **arXiv**
+- MAPLE: Manifold-Activated Pruning of Latent Experts for Sub-2-BPW Mixture-of-Experts Language Models [Nov 2026] [Repo](https://github.com/AmSach/maple) [Paper](https://doi.org/10.5281/zenodo.24042480) [Model](https://huggingface.co/AmSach/Gemma-4-26B-A4B-MAPLE-Sub5GB-GGUF)
 - Demystifying the Compression of Mixture-of-Experts Through a Unified Framework [4 Jun 2024] [Repo](https://github.com/DaizeDong/Unified-MoE-Compression) [Paper](https://arxiv.org/abs/2406.02500)
 - Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models [23 May 2024] [Repo](https://github.com/LINs-lab/DynMoE) [Paper](https://arxiv.org/abs/2405.14297)
 - MoEC: Mixture of Expert Clusters [[19 Jul 2022]](https://arxiv.org/abs/2207.09094)
